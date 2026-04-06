@@ -1,7 +1,7 @@
 # Tokyo3D
 by 0xBB403
 
-A small 3D software renderer written in C. Hobby project demonstrating a software pipeline for transforming, clipping, projecting, and rasterizing 3D geometry. Outputs a framebuffer that can be displayed using SDL3 or other libraries.
+A small 3D software renderer written in C. Hobby project demonstrating a software pipeline for transforming, clipping, projecting, and rasterizing 3D geometry. Outputs a framebuffer that can be displayed using SDL3 or other libraries. No GPU APIs used.
 
 ## Features
 
