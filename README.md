@@ -22,7 +22,7 @@ W:	      Move forward
 S:	      Move backward
 A:	      Rotate left
 D:	      Rotate right
-SPACE:	  Move up (jump)
+SPACE:	  Move up
 LSHIFT:	Move down
 ESC:	    Quit
 
