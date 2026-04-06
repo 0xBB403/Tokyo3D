@@ -16,3 +16,7 @@ A small 3D software renderer written in C. Hobby project demonstrating a softwar
 
 ```bash
 gcc main.c src/*.c -Ilib -Isdl/include -Lsdl/lib -lSDL3 -lm -o app
+
+## Screenshot
+
+![Tokyo3D rendering example](assets/screenshot.png)
