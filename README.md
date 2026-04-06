@@ -12,11 +12,12 @@ A small 3D software renderer written in C. Hobby project demonstrating a softwar
 - Z-clipping works on (-1, 1, z) → (1, -1, -z) vertex data (like OpenGL)
 - Texture support
 
+## Screenshot
+
+![Tokyo3D rendering example](assets/screenshot.png)
+
 ## Compilation
 
 ```bash
 gcc main.c src/*.c -Ilib -Isdl/include -Lsdl/lib -lSDL3 -lm -o app
 
-## Screenshot
-
-![Tokyo3D rendering example](assets/screenshot.png)
