@@ -14,7 +14,7 @@ A small 3D software renderer written in C. Hobby project demonstrating a softwar
 
 ## Screenshot
 
-![Tokyo3D rendering example](assets/screenshot.png)
+![Tokyo3D rendering example](assets/screenshot.PNG)
 
 ## Compilation
 
