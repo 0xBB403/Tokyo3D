@@ -16,6 +16,16 @@ A small 3D software renderer written in C. Hobby project demonstrating a softwar
 
 ![Tokyo3D rendering example](assets/screenshot.PNG)
 
+## Camera controls
+
+W	      Move forward
+S	      Move backward
+A	      Rotate left
+D	      Rotate right
+SPACE	  Move up (jump)
+LSHIFT	Move down
+ESC	    Quit
+
 ## Compilation
 
 ```bash
