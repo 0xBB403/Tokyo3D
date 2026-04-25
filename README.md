@@ -18,6 +18,10 @@ A small 3D software renderer written in C. Hobby project demonstrating a softwar
 
 ## Camera controls
 
+demo on YoutTube: https://youtu.be/pWh9H5ym8Mg?si=qf3GUqaxLCx-X20T
+
+## Camera controls
+
 W:	      Move forward
 S:	      Move backward
 A:	      Rotate left
