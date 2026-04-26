@@ -16,9 +16,9 @@ A small 3D software renderer written in C. Hobby project demonstrating a softwar
 
 ![Tokyo3D rendering example](assets/screenshot.PNG)
 
-## Camera controls
+## Demo video
 
-demo on YouTube: https://youtu.be/pWh9H5ym8Mg?si=qf3GUqaxLCx-X20T
+on YouTube: https://youtu.be/pWh9H5ym8Mg?si=qf3GUqaxLCx-X20T
 
 ## Camera controls
 
